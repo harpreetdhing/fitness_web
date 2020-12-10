@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc9f2627-6516-4ac4-8dfb-6782016cfc81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfHkvOpYEgi7bWkgfYDeDgcwMX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static/temp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static/myjs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.view">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fitness_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fitness_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fitness_web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fitness_web/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fitness_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fitness_web" type="Python.DjangoServer" factoryName="Django server">
+      <module name="fitness_web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="fitness_web.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.view" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.urls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc9f2627-6516-4ac4-8dfb-6782016cfc81" name="Default Changelist" comment="" />
+      <created>1589016373750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589016373750</updated>
+      <workItem from="1589016391332" duration="1562000" />
+      <workItem from="1589163417514" duration="859000" />
+      <workItem from="1589166012520" duration="9317000" />
+      <workItem from="1589189587938" duration="1489000" />
+      <workItem from="1589264965963" duration="46024000" />
+      <workItem from="1589466219367" duration="651000" />
+      <workItem from="1589516866605" duration="598000" />
+      <workItem from="1589940779746" duration="43000" />
+      <workItem from="1589940825040" duration="2012000" />
+      <workItem from="1590725794138" duration="997000" />
+      <workItem from="1590750105662" duration="1041000" />
+      <workItem from="1590752064275" duration="766000" />
+      <workItem from="1590771329007" duration="1975000" />
+      <workItem from="1590812066389" duration="708000" />
+      <workItem from="1590991723938" duration="767000" />
+      <workItem from="1591606744408" duration="514000" />
+      <workItem from="1591701305440" duration="78000" />
+      <workItem from="1592739910380" duration="130000" />
+      <workItem from="1593434624491" duration="663000" />
+      <workItem from="1593488040972" duration="3835000" />
+      <workItem from="1593510732853" duration="2985000" />
+      <workItem from="1593847978622" duration="265000" />
+      <workItem from="1601915150370" duration="927000" />
+      <workItem from="1602001154615" duration="41000" />
+      <workItem from="1602089168028" duration="870000" />
+      <workItem from="1602132288290" duration="268000" />
+      <workItem from="1602132606288" duration="1014000" />
+      <workItem from="1604281074327" duration="2476000" />
+      <workItem from="1604487493136" duration="1871000" />
+      <workItem from="1604540525187" duration="1521000" />
+      <workItem from="1605784339911" duration="2655000" />
+      <workItem from="1605791007329" duration="447000" />
+      <workItem from="1605793134759" duration="1002000" />
+      <workItem from="1606279341256" duration="157000" />
+      <workItem from="1606296364877" duration="1423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602132380191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602132380191" />
+    <state x="466" y="126" width="424" height="483" key="FileChooserDialogImpl" timestamp="1604487540811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604487540811" />
+    <state width="1310" height="159" key="GridCell.Tab.0.bottom" timestamp="1606279498272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606279498272" />
+    <state width="1310" height="159" key="GridCell.Tab.0.center" timestamp="1606279498272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606279498272" />
+    <state width="1310" height="159" key="GridCell.Tab.0.left" timestamp="1606279498272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606279498272" />
+    <state width="1310" height="159" key="GridCell.Tab.0.right" timestamp="1606279498272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1310" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606279498272" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fitness_web$view.coverage" NAME="view Coverage Results" MODIFIED="1606279468608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fitness_web$urls.coverage" NAME="urls Coverage Results" MODIFIED="1589016534281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fitness_web" />
+    <SUITE FILE_PATH="coverage/fitness_web$manage.coverage" NAME="manage Coverage Results" MODIFIED="1589016539808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
