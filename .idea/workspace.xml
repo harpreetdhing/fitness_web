@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc9f2627-6516-4ac4-8dfb-6782016cfc81" name="Default Changelist" comment="" />
+    <list default="true" id="dc9f2627-6516-4ac4-8dfb-6782016cfc81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d78e9cb1-9fc2-4cab-b2f8-a4e5bac592a8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fitness_web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fitness_web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bfHkvOpYEgi7bWkgfYDeDgcwMX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,18 +40,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_first" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates" />
-      <recent name="$PROJECT_DIR$/static/temp" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/static/myjs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static/temp" />
     </key>
   </component>
   <component name="RunManager" selected="Python.view">
@@ -185,41 +200,67 @@
       <workItem from="1605793134759" duration="1002000" />
       <workItem from="1606279341256" duration="157000" />
       <workItem from="1606296364877" duration="1423000" />
+      <workItem from="1607411081969" duration="1431000" />
+      <workItem from="1607413474842" duration="1850000" />
+      <workItem from="1607416075417" duration="521000" />
+      <workItem from="1607416952381" duration="362000" />
+      <workItem from="1607510331154" duration="1417000" />
+      <workItem from="1607515072507" duration="777000" />
+      <workItem from="1607517428016" duration="500000" />
+      <workItem from="1607526988330" duration="5047000" />
+      <workItem from="1607582056854" duration="4201000" />
+      <workItem from="1607613067311" duration="1404000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="24" key="#SQL_Dialects" timestamp="1607527310525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1607527310525" />
     <state x="275" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602132380191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602132380191" />
-    <state x="466" y="126" width="424" height="483" key="FileChooserDialogImpl" timestamp="1604487540811">
+    <state x="110" y="171" width="424" height="483" key="FileChooserDialogImpl" timestamp="1607582777554">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="466" y="126" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604487540811" />
-    <state width="1310" height="159" key="GridCell.Tab.0.bottom" timestamp="1606279498272">
+    <state x="110" y="171" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607582777554" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1607412538502">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1310" height="159" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606279498272" />
-    <state width="1310" height="159" key="GridCell.Tab.0.center" timestamp="1606279498272">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607412538502" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1607412538502">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1310" height="159" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606279498272" />
-    <state width="1310" height="159" key="GridCell.Tab.0.left" timestamp="1606279498272">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607412538502" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1607412538501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1310" height="159" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606279498272" />
-    <state width="1310" height="159" key="GridCell.Tab.0.right" timestamp="1606279498272">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607412538501" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1607412538502">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1310" height="159" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606279498272" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607412538502" />
+    <state x="429" y="87" key="RollbackChangesDialog" timestamp="1607412021348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="87" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1607412021348" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1607517578908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607517578908" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1607614765721">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1607614765721" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/fitness_web$view.coverage" NAME="view Coverage Results" MODIFIED="1606279468608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/fitness_web$urls.coverage" NAME="urls Coverage Results" MODIFIED="1589016534281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fitness_web" />
     <SUITE FILE_PATH="coverage/fitness_web$manage.coverage" NAME="manage Coverage Results" MODIFIED="1589016539808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fitness_web$view.coverage" NAME="view Coverage Results" MODIFIED="1607411742596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/fitness_web$urls.coverage" NAME="urls Coverage Results" MODIFIED="1589016534281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fitness_web" />
   </component>
 </project>
